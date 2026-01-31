@@ -2,6 +2,8 @@
 
 Battle-tested AI skills from the agency behind Uber, Amazon, Salesforce, and more. Not generic prompts — practitioner playbooks with built-in quality scoring.
 
+> **Standing on the shoulders of giants.** These playbooks build on the original AI marketing skills framework created by [Corey Haines](https://coreyhaines.co). We've taken his foundation and enhanced it with operational depth, quality scoring, and the frameworks we've refined delivering campaigns for hundreds of companies. Credit where it's due — Corey's work made this possible.
+
 ---
 
 ## What's Inside
